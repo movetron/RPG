@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\RPG\RPG\bin\Debug\net6.0\RPG.exe
+A:\МДК 01.01\base_alg\RPG\RPG\bin\Debug\net6.0\RPG.deps.json
+A:\МДК 01.01\base_alg\RPG\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+A:\МДК 01.01\base_alg\RPG\RPG\bin\Debug\net6.0\RPG.dll
+A:\МДК 01.01\base_alg\RPG\RPG\bin\Debug\net6.0\RPG.pdb
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.dll
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\refint\RPG.dll
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.pdb
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\RPG\RPG\obj\Debug\net6.0\ref\RPG.dll
